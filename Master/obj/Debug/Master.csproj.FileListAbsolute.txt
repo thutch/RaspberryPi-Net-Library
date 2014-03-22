@@ -1,0 +1,5 @@
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\bin\Debug\Resources\Mono.Posix.dll
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\bin\Debug\Master.dll
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\bin\Debug\Master.pdb
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\obj\Debug\Master.dll
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\obj\Debug\Master.pdb

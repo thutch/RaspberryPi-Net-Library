@@ -1,0 +1,16 @@
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\obj\Debug\Master.dll
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\bin\Debug\Mono.Posix.dll
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\bin\Debug\Master.dll
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\bin\Debug\Master.pdb
+c:\users\rydh\documents\visual studio 2013\Projects\RaspberryPi\Master\obj\Debug\Master.pdb
+\\RYDH-PC\SharedProjects\RaspberryPi\Master\bin\Debug\Mono.Posix.dll
+\\RYDH-PC\SharedProjects\RaspberryPi\Master\bin\Debug\Master.dll
+\\RYDH-PC\SharedProjects\RaspberryPi\Master\bin\Debug\Master.pdb
+\\RYDH-PC\SharedProjects\RaspberryPi\Master\obj\Debug\RaspberryPi.csprojResolveAssemblyReference.cache
+\\RYDH-PC\SharedProjects\RaspberryPi\Master\obj\Debug\Master.dll
+\\RYDH-PC\SharedProjects\RaspberryPi\Master\obj\Debug\Master.pdb
+C:\SharedProjects\RaspberryPi\Master\bin\Debug\Mono.Posix.dll
+C:\SharedProjects\RaspberryPi\Master\bin\Debug\RaspberryPi.dll
+C:\SharedProjects\RaspberryPi\Master\bin\Debug\RaspberryPi.pdb
+C:\SharedProjects\RaspberryPi\Master\obj\Debug\RaspberryPi.dll
+C:\SharedProjects\RaspberryPi\Master\obj\Debug\RaspberryPi.pdb
