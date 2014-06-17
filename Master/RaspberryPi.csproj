@@ -60,6 +60,7 @@
     <Compile Include="GPIO\I2C\I2CBus.cs" />
     <Compile Include="GPIO\I2C\I2CNativeLib.cs" />
     <Compile Include="GPIO\I2C\II2CBus.cs" />
+    <Compile Include="GPIO\IGPIO.cs" />
     <Compile Include="GPIO\MCP3008.cs" />
     <Compile Include="GPIO\MicroLiquidCrystal\ILcdTransferProvider.cs" />
     <Compile Include="GPIO\MicroLiquidCrystal\Lcd.cs" />

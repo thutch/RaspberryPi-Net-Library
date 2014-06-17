@@ -14,3 +14,9 @@ C:\SharedProjects\RaspberryPi\Master\bin\Debug\RaspberryPi.dll
 C:\SharedProjects\RaspberryPi\Master\bin\Debug\RaspberryPi.pdb
 C:\SharedProjects\RaspberryPi\Master\obj\Debug\RaspberryPi.dll
 C:\SharedProjects\RaspberryPi\Master\obj\Debug\RaspberryPi.pdb
+C:\Users\thutch\Documents\GitHub\RaspberryPi-Net-Library\Master\bin\Debug\Mono.Posix.dll
+C:\Users\thutch\Documents\GitHub\RaspberryPi-Net-Library\Master\bin\Debug\RaspberryPi.dll
+C:\Users\thutch\Documents\GitHub\RaspberryPi-Net-Library\Master\bin\Debug\RaspberryPi.pdb
+C:\Users\thutch\Documents\GitHub\RaspberryPi-Net-Library\Master\obj\Debug\RaspberryPi.csprojResolveAssemblyReference.cache
+C:\Users\thutch\Documents\GitHub\RaspberryPi-Net-Library\Master\obj\Debug\RaspberryPi.dll
+C:\Users\thutch\Documents\GitHub\RaspberryPi-Net-Library\Master\obj\Debug\RaspberryPi.pdb

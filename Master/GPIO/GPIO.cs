@@ -7,7 +7,7 @@ namespace RaspberryPi.GPIO
     /// <summary>
     /// Abstract class for the GPIO connector on the Pi (P1) (as found next to the yellow RCA video socket on the Rpi circuit board)
     /// </summary>
-    public abstract class GPIO : IDisposable
+    public abstract class GPIO : IGPIO, IDisposable
     {
         /// <summary>
         /// Dictionary that stores created (exported) pins that where not disposed.
